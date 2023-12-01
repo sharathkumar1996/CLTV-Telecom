@@ -1,4 +1,4 @@
-## **Business Overview**
+## **Project Overview**
 
 Customer Lifetime Value (CLTV) is a crucial metric that measures the total revenue a customer is expected to generate during their relationship with a company. CLTV is an important metric for telecom companies because it helps them understand the value of their customer base and make strategic decisions about customer acquisition and retention.
 
